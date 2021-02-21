@@ -1,0 +1,21 @@
+Status
+getavailablity
+new_parking_lot 4
+parking KA-01-HH-1234 White  
+parking KA-01-HH-9999 White  
+parking KA-01-BB-0001 Black  
+parking KA-01-HH-7777 Red 
+leave 1 1
+Status
+getavailablity
+parking MH-02-MN-0213 Black
+getdetailsbycolour White
+getdetailsbycolour Blue
+getdetailsbycolour Grey
+getdetailsbycolour RED
+getdetailsbyregnumber KA-01-BB-0001
+getdetailsbyregnumber KA-01-AA-0000
+getdetailsbyregnumber KL-05-NM-2001
+parking KA-01-DR-7412 RED
+Status
+Exit
